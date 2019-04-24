@@ -14,7 +14,7 @@ article, aside, figure, footer, header, hgroup, menu, nav, section { display: bl
 a:focus { outline: 0; }
 
 #page-wrap { 
-    width: 500px; margin: 40px auto 5px; background: #91c7ff; 
+    width: 800px; margin: 40px auto 5px; background: #91c7ff; 
     padding: 8px;
     background: -webkit-gradient(linear, left top, left bottom, from(#eee), to(#ccc));
 	background: -moz-linear-gradient(top,  #eee,  #ccc);
