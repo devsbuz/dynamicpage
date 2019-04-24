@@ -4,6 +4,21 @@
 	 http://css-tricks.com
 */
 
+/* ADDITIONAL CSS FOR PLAYER */
+
+.container {
+	background-color: #fff0 !important;
+}
+
+.content-holder {
+  background : #fff0 !important;
+}
+
+#main {
+	margin : 0 !important;
+}
+/* ADDITIONAL CSS FOR PLAYER */
+
 * { margin: 0; padding: 0; }
 html { overflow-y: scroll; }
 body { font: 12px/1.4 Helvetica, sans-serif; background: #333; color: #333; }
