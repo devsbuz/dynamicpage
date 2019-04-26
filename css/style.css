@@ -19,6 +19,41 @@
 }
 /* ADDITIONAL CSS FOR PLAYER */
 
+/* ADDITIONAL CSS FOR body  */
+
+body {
+	
+	    background: #181818 !important;
+}
+
+#page-wrap {
+	background : #333 !important;
+}
+
+#radios li span {
+	border: 1px solid #b0a376 !important;
+}
+
+
+footer {
+	    text-align: center !important;
+}
+
+
+
+.content-holder {
+	
+	min-height: 0px !important;
+}
+
+/* ADDITIONAL CSS FOR body */
+
+
+
+
+
+
+
 * { margin: 0; padding: 0; }
 html { overflow-y: scroll; }
 body { font: 12px/1.4 Helvetica, sans-serif; background: #333; color: #333; }
